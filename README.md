@@ -1,4 +1,4 @@
-# Lokalni iskalni algoritmi
+# Local search algorithms
 Solving the problem of N queens placement on a N × N size checkerboard with the help of algorithms:
 * hill climbing
 * simulated annealing 
